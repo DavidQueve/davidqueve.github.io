@@ -9,4 +9,4 @@ This repository contains my professional portfolio, which showcases my skills an
 </ul>
 Feel free to explore this portfolio to learn more about my work and expertise. Thank you for visiting!
 
-Contact: davidquevedo259@gmail.com
+Contact: davidquevedo.github.io
