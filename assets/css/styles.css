@@ -112,7 +112,7 @@ section {
 
 .home__background {
   background-color: #8e8e8e;
-  background-image: url(/assets/bg.webp);
+  background-image: url(../bg.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -479,5 +479,5 @@ section {
 }
 
 .footer a:hover {
-  color: var(--blue);
+  color: var(--orange);
 }
